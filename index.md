@@ -1,2 +1,3 @@
 
-LiYuan Lu
+Li-Yuan Lu
+Department of Astronomy, Xiamen University
