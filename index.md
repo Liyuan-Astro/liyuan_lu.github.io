@@ -68,7 +68,7 @@ MDM 2.4 m Hiltner Telescope
 
 ### As First Author
 
-**Lu L.-Y.**, Li J.-T., Vargas C. J., Fang T., Benjamin R. A., Bregman J. N., Dettmar R.-J., English J., Heald G. H., Jiang Y., Wang Q. D., Yang Y., *eDIG-CHANGES III. The lagging eDIG revealed by multi-slit spectroscopy of NGC 891*. Astronomy \& Astrophysics, 2024, 691, A217
+**Lu L.-Y.**, Li J.-T., Vargas C. J., Fang T., Benjamin R. A., Bregman J. N., Dettmar R.-J., English J., Heald G. H., Jiang Y., Wang Q. D., Yang Y., *eDIG-CHANGES III. The lagging eDIG revealed by multi-slit spectroscopy of NGC 891*. Astronomy & Astrophysics, 2024, 691, A217
 
 **Lu L.-Y.**, Li J.-T., Vargas C. J., Beck R., Bregman J. N., Dettmar R.-J., English J., Fang T., Heald G. H., Li H., Qu Z., Rang R. J., Stein M., Wang Q. D., Wang J., Wiegert T., Zheng Y., *eDIG-CHANGES I: extended Hα emission from the extraplanar diffuse ionized gas (eDIG) around CHANG-ES galaxies*. Monthly Notices of the Royal Astronomical Society, 2023, 519, 6098
 
